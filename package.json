@@ -6,8 +6,9 @@
    "repository":"git://github.com/lsocrate/WoD-Dice.git",
    "author":"Luiz Sócrate <luiz@socrate.com.br> (http://socrate.com.br/)",
    "main":"./index.js",
+   "keywords":["rpg", "die", "dice", "wod"],
    "engines":{
-      "node":">= 0.4.0"
+      "node":"*"
    },
    "licenses":[
       {
