@@ -1,7 +1,7 @@
 {
    "name":"WoD-Dice",
    "description":"White-Wolf's Storytelling dice roller.",
-   "version":"0.0.1",
+   "version":"0.0.2",
    "homepage":"http://github.com/lsocrate/WoD-Dice",
    "repository":"git://github.com/lsocrate/WoD-Dice.git",
    "author":"Luiz Sócrate <luiz@socrate.com.br> (http://socrate.com.br/)",
