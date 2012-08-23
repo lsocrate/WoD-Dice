@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/lsocrate/WoD-Dice.png)](http://travis-ci.org/lsocrate/WoD-Dice)
 ## Usage
 
 ```javascript
