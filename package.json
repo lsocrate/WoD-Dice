@@ -1,19 +1,22 @@
 {
-   "name":"WoD-Dice",
-   "description":"White-Wolf's Storytelling dice roller.",
-   "version":"0.0.3",
-   "homepage":"http://github.com/lsocrate/WoD-Dice",
-   "repository":"git://github.com/lsocrate/WoD-Dice.git",
-   "author":"Luiz Sócrate <luiz@socrate.com.br> (http://socrate.com.br/)",
-   "main":"./index.js",
-   "keywords":["rpg", "die", "dice", "wod"],
-   "engines":{
-      "node":"*"
+   "name": "WoD-Dice",
+   "description": "White-Wolf's Storytelling dice roller.",
+   "version": "0.1.0",
+   "homepage": "http://github.com/lsocrate/WoD-Dice",
+   "repository": {
+      "type": "git",
+      "url": "git@github.com:lsocrate/WoD-Dice.git"
    },
-   "licenses":[
-      {
-         "type":"WTFPL",
-         "url":"http://github.com/lsocrate/WoD-Dice/raw/master/LICENSE"
-      }
-   ]
+   "author": "Luiz Sócrate <luiz@socrate.com.br>",
+   "main": "index",
+   "keywords": [
+      "rpg",
+      "die",
+      "dice",
+      "wod"
+   ],
+   "engines": {
+      "node": "*"
+   },
+   "license": "MIT"
 }
